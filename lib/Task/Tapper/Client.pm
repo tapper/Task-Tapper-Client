@@ -3,6 +3,8 @@ use warnings;
 package Task::Tapper::Client;
 # ABSTRACT: Tapper - dependencies for test machine clients
 
+=pkgroup Tapper
+
 =pkg App::Bootstrap::Perl
 
 =pkg Tapper::Remote
